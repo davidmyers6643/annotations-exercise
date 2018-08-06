@@ -1,4 +1,4 @@
-# Annotations exercise
+ git # Annotations exercise
 
 # Installation
 
@@ -9,7 +9,7 @@
 
 IntelliJ compiles and executes our code from the terminal without our direct intervention. For this
 exercise we will not use it, because it would *hide* the warnings that we want to fix. For this
-exercise we will use the *terminal* instead.
+exercise we will use the *terminal* instead..
 
 ### Compilation
 
